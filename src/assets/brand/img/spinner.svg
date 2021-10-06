@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.2" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="30px" height="30px" viewBox="1 1 30 30" xml:space="preserve">
+	<g>
+		<path fill="#D33025" d="M16,1c8.284,0,15,6.716,15,15h-3.75c0-6.213-5.037-11.25-11.25-11.25V1z	">
+			<!--<animateTransform  fill="remove" type="rotate" restart="always" accumulate="none" calcMode="linear" repeatCount="indefinite" from="0 16 16" attributeName="transform" additive="replace" to="360 16 16" dur="0.8s" />-->
+		</path>
+		<path fill="#FFFFFF" d="M27.25,16c0,6.213-5.037,11.25-11.25,11.25S4.75,22.213,4.75,16C4.75,9.787,9.786,4.75,16,4.75V1 C7.715,1,1,7.716,1,16c0,8.283,6.716,15,15,15c8.284,0,15-6.717,15-15H27.25z">
+			<!--<animateTransform  fill="remove" type="rotate" restart="always" accumulate="none" calcMode="linear" repeatCount="indefinite" from="0 16 16" attributeName="transform" additive="replace" to="360 16 16" dur="0.8s" />-->
+		</path>
+	</g>
+</svg>

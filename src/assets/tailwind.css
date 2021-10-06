@@ -1,0 +1,82 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+@import './normalize.css';
+
+@import './root.css';
+
+@import './transition.css';
+
+@import './background.css';
+
+@import './font-size.css';
+
+@import './form-group.css';
+
+@import './button.css';
+
+@import './list-item.css';
+
+@import './modal.css';
+
+body {
+  @apply bg-gray-100;
+}
+
+/* ============
+Text Color
+==============*/
+.color-transparent {
+  color: transparent;
+}
+
+.color-black {
+  color: var(--color-black);
+}
+
+.color-white {
+  color: var(--color-white);
+}
+
+.color-primary {
+  color: var(--color-primary);
+}
+
+.color-secondary {
+  color: var(--color-secondary);
+}
+
+.color-snow {
+  color: var(--color-snow);
+}
+
+.color-red {
+  color: var(--color-red);
+}
+
+.color-orange {
+  color: var(--color-orange);
+}
+
+.color-blue {
+  color: var(--color-blue);
+}
+
+.color-yellow {
+  color: var(--color-yellow);
+}
+
+.color-green {
+  color: var(--color-green);
+}
+
+.color-text {
+  color: var(--color-text);
+}
+
+.color-comment {
+  color: var(--color-comment);
+}
